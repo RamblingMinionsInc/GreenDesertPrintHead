@@ -1,12 +1,13 @@
 Enter notes / ideas here.
 
 (in a desert)
+
 1. A single hexayurt
- 1. construction
+ * construction
  * how ?
  * link to videoes
 
-  A cluster of hexayurts
+2. A cluster of hexayurts
     why ?
       sum of the parts are larger than the single parts
       synergy effect
