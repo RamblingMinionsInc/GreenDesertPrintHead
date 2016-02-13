@@ -36,4 +36,5 @@ Enter notes / ideas here.
            * a vehicle (scooter/car/truck/bus) may be needed depending on the needs of the cluster / other clusters (neighbour communities)
            * eg. daily transport from north cluster through all middle clusters to south cluster - back and forth every 4 hours ?
         2. **communication**
-         * 123
+         * distributed internet from central hub
+          * central hexayurt has internet (satellite ?, baloon (Google project) ?, radio ?) and distributes internet to community through famplified WiFi ()
