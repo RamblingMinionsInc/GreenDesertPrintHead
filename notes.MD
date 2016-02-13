@@ -8,11 +8,11 @@ Enter notes / ideas here.
  * link to videoes
 
 2. A cluster of hexayurts
-    why ?
-      sum of the parts are larger than the single parts
-      synergy effect
-      gives oppurtunity for community which gives opportunity for specialisation and delegation of responsibilities
-        roles (farmer, black smith, tailor, teacher etc.)
+    1. why ?
+      * sum of the parts are larger than the single parts
+      * synergy effect
+      * gives oppurtunity for community which gives opportunity for specialisation and delegation of responsibilities
+        * roles (farmer, black smith, tailor, teacher etc.)
           which ones are needed ?
           how many of each ?
           where in the cluster are they best placed ? (best use of resources)
