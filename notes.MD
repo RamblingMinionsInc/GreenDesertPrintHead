@@ -1,10 +1,10 @@
 Enter notes / ideas here.
 
 (in a desert)
-  *A single hexayurt
-    +construction
-      +how ?
-        +link to videoes
+* A single hexayurt
+ * construction
+  * how ?
+   * link to videoes
 
   A cluster of hexayurts
     why ?
@@ -31,7 +31,3 @@ Enter notes / ideas here.
         a vehicle (scooter/car/truck/bus) may be needed depending on the needs of the cluster / other clusters (neighbour communities)
           eg. daily transport from north cluster through all middle clusters to south cluster - back and forth every 4 hours ?
           
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
