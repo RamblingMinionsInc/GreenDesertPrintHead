@@ -24,14 +24,16 @@ Enter notes / ideas here.
           * hexagonal grid ?
           * other ?
     3. infrastructure
-        * short distances
-            * if spaced "close" together infrastructure may not be needed (everything within walking distance)
-            * pros and cons with this setup ?
-        * medium distances
-            * if spaced at "medium" range (within a few miles/kilometers)
-            * bicycles would be sufficient as only means of infrastructure
-        * large distances
-            * if spaced at "large" distances (over 10-20 miles/kilometers apart)
-                * a vehicle (scooter/car/truck/bus) may be needed depending on the needs of the cluster / other clusters (neighbour communities)
-                * eg. daily transport from north cluster through all middle clusters to south cluster - back and forth every 4 hours ?
-          
+        1. **transportation** of people and goods
+         * short distances
+          * if spaced "close" together infrastructure may not be needed (everything within walking distance)
+           * pros and cons with this setup ?
+         * medium distances
+          * if spaced at "medium" range (within a few miles/kilometers)
+           * bicycles would be sufficient as only means of infrastructure
+         * large distances
+          * if spaced at "large" distances (over 10-20 miles/kilometers apart)
+           * a vehicle (scooter/car/truck/bus) may be needed depending on the needs of the cluster / other clusters (neighbour communities)
+           * eg. daily transport from north cluster through all middle clusters to south cluster - back and forth every 4 hours ?
+        2. **communication**
+         * 123
