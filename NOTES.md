@@ -1,10 +1,10 @@
 Enter notes / ideas here.
 
 (in a desert)
-  A single hexayurt
-    construction
-      how ?
-        link to videoes
+  ..*A single hexayurt
+    *construction
+      *how ?
+        *link to videoes
 
   A cluster of hexayurts
     why ?
