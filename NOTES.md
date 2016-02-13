@@ -13,9 +13,9 @@ Enter notes / ideas here.
       * synergy effect
       * gives oppurtunity for community which gives opportunity for specialisation and delegation of responsibilities
         * roles (farmer, black smith, tailor, teacher etc.)
-          *which ones are needed ?
-          *how many of each ?
-          *where in the cluster are they best placed ? (best use of resources)
+          * which ones are needed ?
+          * how many of each ?
+          * where in the cluster are they best placed ? (best use of resources)
     2. distribution of resources (space)
         * how ?
         * discus the following:
@@ -37,4 +37,4 @@ Enter notes / ideas here.
            * eg. daily transport from north cluster through all middle clusters to south cluster - back and forth every 4 hours ?
         2. **communication**
          * distributed internet from central hub
-          * central hexayurt has internet (satellite ?, baloon (Google project) ?, radio ?) and distributes internet to community through amplified WiFi ( http://hackaday.com/2016/01/05/ten-mile-raspberry-pi-wifi-with-a-catch/ )
+          * central hexayurt has internet (satellite ?, baloon (Google project) ?, radio ?) and distributes internet to community through amplified WiFi ( http://hackaday.com/2016/01/05/ten-mile-raspberry-pi-wifi-with-a-catch/ http://www.engadget.com/2005/11/15/how-to-build-a-wifi-biquad-dish-antenna/ )
